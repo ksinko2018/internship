@@ -1,44 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<metadata>
-	<lib:Details xmlns:lib="myDetails">
-		<lib:Detail Assignation="vr1">
-			<lib:Title>vr</lib:Title>
-			<lib:Brand>Mercedes</lib:Brand>
-			<lib:Material>vr</lib:Material>
-			<lib:Year>2018</lib:Year>
-			<lib:Quantity>4243</lib:Quantity>
-		</lib:Detail>
-		<lib:Detail Assignation="vr2">
-			<lib:Title>vr</lib:Title>
-			<lib:Brand>1Mercedes</lib:Brand>
-			<lib:Material>vr</lib:Material>
-			<lib:Year>2018</lib:Year>
-			<lib:Quantity>4243</lib:Quantity>
-		</lib:Detail>
-		<lib:Detail Assignation="vr3">
-			<lib:Title>vr</lib:Title>
-			<lib:Brand>2Mercedes</lib:Brand>
-			<lib:Material>vr</lib:Material>
-			<lib:Year>2018</lib:Year>
-			<lib:Quantity>4243</lib:Quantity>
-		</lib:Detail>
-	</lib:Details>	
-	<lib:Details xmlns:lib="myDetails">
-		<lib:Detail Assignation="test2">
-			<lib:Title>vr</lib:Title>
-			<lib:Brand>3Mercedes</lib:Brand>
-			<lib:Material>vr</lib:Material>
-			<lib:Year>2018</lib:Year>
-			<lib:Quantity>4243</lib:Quantity>
-		</lib:Detail>
-	</lib:Details>
-	<lib:Details xmlns:lib="myDetails">
-		<lib:Detail Assignation="test3">
-			<lib:Title>vr</lib:Title>
-			<lib:Brand>4Mercedes</lib:Brand>
-			<lib:Material>vr</lib:Material>
-			<lib:Year>2018</lib:Year>
-			<lib:Quantity>4243</lib:Quantity>
-		</lib:Detail>
-	</lib:Details>
-</metadata>
+{
+-  "members": [
+-    { "id": 1, "title": "Kirill" },
+-    { "id": 2, "title": "Andrey" },
+-    { "id": 3, "title": "Alexander" }
+-  ],
+-  "comments": [
+-    { "id": 1, "body": "some comment", "postId": 1 },
+-    { "id": 2, "body": "some comment", "postId": 1 }
+-  ],
+-  "profile": {
+-    "name": "internship"
+-  }
+-}
+-
