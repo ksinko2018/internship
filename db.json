@@ -1,15 +1,15 @@
 {
--  "members": [
--    { "id": 1, "title": "Kirill" },
--    { "id": 2, "title": "Andrey" },
--    { "id": 3, "title": "Alexander" }
--  ],
--  "comments": [
--    { "id": 1, "body": "some comment", "postId": 1 },
--    { "id": 2, "body": "some comment", "postId": 1 }
--  ],
--  "profile": {
--    "name": "internship"
--  }
--}
--
+  "members": [
+    { "id": 1, "title": "Kirill" },
+   { "id": 2, "title": "Andrey" },
+    { "id": 3, "title": "Alexander" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+   "name": "internship"
+  }
+}
+
